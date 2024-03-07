@@ -81,7 +81,7 @@ public class EmployeeSalaryCalculator
 	static void displayPaySlip()
 	{
 		
-		System.out.println("===========================================");
+		System.out.println("==========================================");
 		System.out.println("                                     ");
 		System.out.println("================PAYSLIP==============");
 		System.out.println("                                     ");
